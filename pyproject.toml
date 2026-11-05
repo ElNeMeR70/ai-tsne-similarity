@@ -1,0 +1,4 @@
+[project]
+name = "ai-tsne-similarity"
+version = "0.1.0"
+description = "Computes conditional probabilities $p_{j|i}$ representing pairwise similarities under Gaussian distributions."
